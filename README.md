@@ -4,6 +4,8 @@ I'm a passionate self-taught web developer from the UK. I wrote my first piece o
 
 I graduated from Andrei Neagoie's 'The Complete Web Developer in 2021: Zero To Mastery' in the summer of 2021. Since then, I have used the seemingly endless wealth of resources on the web alongside the amazing content provided by the Zero To Mastery academy to gain further knowledge and enhance my skills as a developer with a primary focus on Javascript.
 
+Always learning, always growing.
+
 Below is a list of some of the technologies I have used in my web applications:
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

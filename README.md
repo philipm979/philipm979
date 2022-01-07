@@ -1,6 +1,6 @@
 ### Hi there, i'm Phil 👋 
 
-I'm a passionate self-taught web developer from the UK. I wrote my first piece of code in the autumn of 2020 and have never looked back. I love to learn about new technologies and implement them to solve problems and create quality web applications.
+I'm a passionate self-taught web developer from the UK. I wrote my first piece of code in the autumn of 2020 and have never looked back. I love to learn about new technologies and implement them to solve problems and create quality web applications. My only regret is I didn't start learning sooner.
 
 I graduated from Andrei Neagoie's 'The Complete Web Developer in 2021: Zero To Mastery' in the summer of 2021. Since then, I have used the seemingly endless wealth of resources on the web alongside the amazing content provided by the Zero To Mastery academy to gain further knowledge and enhance my skills as a developer with a primary focus on Javascript.
 

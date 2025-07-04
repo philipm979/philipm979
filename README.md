@@ -2,7 +2,7 @@
 
 I'm a passionate self-taught web developer from the UK. I wrote my first piece of code in the autumn of 2020 and have never looked back. I love to learn about new technologies and implement them to solve problems and create quality web applications. My only regret is that I didn't start learning sooner.
 
-I graduated from Andrei Neagoie's 'The Complete Web Developer in 2021: Zero To Mastery' in the summer of 2021. Since then, I have used the seemingly endless wealth of resources on the web, alongside the amazing content provided by the Zero To Mastery academy, to gain further knowledge and enhance my skills as a developer with a primary focus on Javascript.
+I joined a startup as a full-stack developer in March 2021 - it was subsequently bought out by a big multi-national firm (SoftwareOne) where I have been employed ever since. Our tech stack is Javascript mostly - I also know my way around AWS and have built lambdas etc for some of our codebase.
 
 Always learning, always growing.
 
